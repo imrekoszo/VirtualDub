@@ -6,4 +6,4 @@ with history from version 1.4.0.11583 (the earliest I could find)
 All credits go to Avery Lee.
 I have written NONE of this.
 
-Feel free to use according to GPL license
+Feel free to use according to [GPLv2 license](Copying).
